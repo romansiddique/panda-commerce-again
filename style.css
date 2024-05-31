@@ -1,0 +1,55 @@
+.container{
+    margin-bottom: 100px;
+}
+.banner-bg{
+    background-color: #fceae8;
+    padding: 10px 20px ;
+
+}
+.price{
+    color: #ff136f;
+    font-weight: 700;
+}
+.buy-now{
+    border: none;
+    background-image: linear-gradient(to right, rgb(249, 17, 87) 0%,rgb(239, 64, 142) 100%);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+}
+.bag , .shoe , .watch{
+    padding: 10px 15px;
+    border-radius: 25px;
+    margin-left: 15px;
+}
+.bag{
+    background-image: linear-gradient(to left, rgb(236, 9, 141) , rgb(241, 88, 177));
+}
+.shoe{
+    background-image: linear-gradient(to right, rgb(232, 153, 7),rgb(242, 244, 109));
+}
+.watch{
+    background-image: linear-gradient(to left, blue,rgb(129, 129, 239));
+}
+.bag , .shoe , .watch h1{
+    color: white;
+    font-weight: 700;
+}
+.row .col{
+    box-shadow: 5px 5px 10px gray;
+    border: none;
+}
+#contact{
+    background-color: #fceae8;
+    height: 300px;
+    box-shadow: 2px 2px 6px gray;
+}
+.form-control{
+    margin-bottom: 15px;
+}
+
+footer{
+    font-size: 12px;
+    color: gray;
+}
